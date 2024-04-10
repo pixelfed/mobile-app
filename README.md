@@ -1,14 +1,13 @@
 # Pixelfed for Android + iOS
 
-The official Pixelfed mobile app repo placeholder.
+The official Pixelfed mobile app repo placeholder. 
 
-The source code will be published after the public release!
+*We will soon archive this repo and migrate issues to the [pixelfed/pixelfed-rn](https://github.com/pixelfed/pixelfed-rn) repo.*
+
+## Source code: [pixelfed/pixelfed-rn](https://github.com/pixelfed/pixelfed-rn)
 
 ### Android
-v1.0.0.29
-SHA256: 2f1efe5a7202cc7d102223197e29c0278532977b7e205e9f82888e4ab989c1c4
-[APK CDN URL](https://dl.apps.pixelcdn.net/pixelfed-android-beta/pixelfed-android-v1.0.0.29.apk) - [APK URL](https://pixelfed.org/_dl/pixelfed-android-v1.0.0.29.apk)
-
+<a href="https://play.google.com/apps/testing/com.pixelfed"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"></a>
 
 ### iOS TestFlight
 
